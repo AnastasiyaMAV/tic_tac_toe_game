@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca107ab9.css",
-    "main.js": "/static/js/main.2f25e667.js",
-    "static/media/OleoScriptSwashCaps-Regular.eot": "/static/media/OleoScriptSwashCaps-Regular.d38e43bc0d4be21ce63e.eot",
-    "static/media/OleoScriptSwashCaps-Regular.ttf": "/static/media/OleoScriptSwashCaps-Regular.435caec7f93f3d662fd2.ttf",
-    "static/media/OleoScriptSwashCaps-Bold.eot": "/static/media/OleoScriptSwashCaps-Bold.641545e12cb35a00621b.eot",
-    "static/media/OleoScriptSwashCaps-Bold.ttf": "/static/media/OleoScriptSwashCaps-Bold.fb47549b3658b4db514c.ttf",
-    "static/media/OleoScriptSwashCaps-Bold.woff": "/static/media/OleoScriptSwashCaps-Bold.362101873d426c8cead1.woff",
-    "static/media/OleoScriptSwashCaps-Regular.woff": "/static/media/OleoScriptSwashCaps-Regular.ecb732a77a8e9eff39b9.woff",
-    "index.html": "/index.html",
-    "main.ca107ab9.css.map": "/static/css/main.ca107ab9.css.map",
-    "main.2f25e667.js.map": "/static/js/main.2f25e667.js.map"
+    "main.css": "/tic_tac_toe_game/static/css/main.98ef0768.css",
+    "main.js": "/tic_tac_toe_game/static/js/main.2f25e667.js",
+    "static/media/OleoScriptSwashCaps-Regular.eot": "/tic_tac_toe_game/static/media/OleoScriptSwashCaps-Regular.d38e43bc0d4be21ce63e.eot",
+    "static/media/OleoScriptSwashCaps-Regular.ttf": "/tic_tac_toe_game/static/media/OleoScriptSwashCaps-Regular.435caec7f93f3d662fd2.ttf",
+    "static/media/OleoScriptSwashCaps-Bold.eot": "/tic_tac_toe_game/static/media/OleoScriptSwashCaps-Bold.641545e12cb35a00621b.eot",
+    "static/media/OleoScriptSwashCaps-Bold.ttf": "/tic_tac_toe_game/static/media/OleoScriptSwashCaps-Bold.fb47549b3658b4db514c.ttf",
+    "static/media/OleoScriptSwashCaps-Bold.woff": "/tic_tac_toe_game/static/media/OleoScriptSwashCaps-Bold.362101873d426c8cead1.woff",
+    "static/media/OleoScriptSwashCaps-Regular.woff": "/tic_tac_toe_game/static/media/OleoScriptSwashCaps-Regular.ecb732a77a8e9eff39b9.woff",
+    "index.html": "/tic_tac_toe_game/index.html",
+    "main.98ef0768.css.map": "/tic_tac_toe_game/static/css/main.98ef0768.css.map",
+    "main.2f25e667.js.map": "/tic_tac_toe_game/static/js/main.2f25e667.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca107ab9.css",
+    "static/css/main.98ef0768.css",
     "static/js/main.2f25e667.js"
   ]
 }
