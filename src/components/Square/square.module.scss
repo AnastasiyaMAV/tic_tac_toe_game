@@ -1,0 +1,19 @@
+@import "../../assetc/styles/main.scss";
+.square {
+    width: 100px;
+    height: 100px;
+    background: $buttonColor;
+    border: 1px solid $boardColor;
+    cursor: pointer;
+    outline: none;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Oleo Script Swash Caps Bold";
+
+    &:hover {
+        border: 3px solid $boardColor;
+        background: $boardColor;
+    }
+}
