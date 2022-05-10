@@ -1,21 +1,23 @@
 @font-face {
-    font-family: 'Oleo Script Swash Caps';
-    src: url('../fonts/OleoScriptSwashCaps-Regular.eot');
-    src: url('../fonts/OleoScriptSwashCaps-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/OleoScriptSwashCaps-Regular.woff') format('woff'),
-        url("../fonts/OleoScriptSwashCaps-Regular.ttf") format("truetype");;
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Oleo Script Swash Caps";
+  src: url("../fonts/OleoScriptSwashCaps-Regular.eot");
+  src: url("../fonts/OleoScriptSwashCaps-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/OleoScriptSwashCaps-Regular.woff") format("woff"),
+    url("../fonts/OleoScriptSwashCaps-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Oleo Script Swash Caps Bold';
-    src: url('../fonts/OleoScriptSwashCaps-Bold.eot');
-    src: url('../fonts/OleoScriptSwashCaps-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/OleoScriptSwashCaps-Bold.woff') format('woff'),
-        url("../fonts/OleoScriptSwashCaps-Bold.ttf") format("truetype");;
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Oleo Script Swash Caps Bold";
+  src: url("../fonts/OleoScriptSwashCaps-Bold.eot");
+  src: url("../fonts/OleoScriptSwashCaps-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/OleoScriptSwashCaps-Bold.woff") format("woff"),
+    url("../fonts/OleoScriptSwashCaps-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }

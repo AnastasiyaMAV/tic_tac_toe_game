@@ -1,5 +1,11 @@
 @import "../../assetc/styles/main.scss";
 
+@mixin infoStyle {
+  margin-top: 25px;
+  font-size: 25px;
+  font-family: "Oleo Script Swash Caps", serif;
+}
+
 .container {
   min-height: 100vh;
   width: 100%;
@@ -13,35 +19,31 @@
 .startBtn {
   margin-bottom: 25px;
   font-size: 20px;
-  font-family: "Oleo Script Swash Caps";
+  font-family: "Oleo Script Swash Caps", serif;
   width: 140px;
   height: 50px;
   border-width: 1px;
   color: $buttonColor;
-  border-color: #4e6096;
+  border-color: $buttoStartColor1;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  box-shadow: 0px 0px 0px 2px #9fb4f2;
-  text-shadow: 0px 1px 0px #283966;
-  background: linear-gradient(rgb(120, 146, 194), $boardColor);
+  box-shadow: 0px 0px 0px 2px $buttoStartColor2;
+  text-shadow: 0px 1px 0px $buttoStartColor3;
+  background: linear-gradient($buttoStartColor4, $boardColor);
 }
 
 .startBtn:hover {
-  background: linear-gradient($boardColor, rgb(120, 146, 194));
+  background: linear-gradient($boardColor, $buttoStartColor4);
 }
 
 .info {
-  margin-top: 25px;
-  font-size: 25px;
-  font-family: "Oleo Script Swash Caps";
+  @include infoStyle;
   color: $buttonColor;
 }
 
 .infoWinner {
-  margin-top: 25px;
-  font-size: 25px;
-  font-family: "Oleo Script Swash Caps Bold";
-  color: #4e6096;
+  @include infoStyle;
+  color: $buttoStartColor1;
 }
