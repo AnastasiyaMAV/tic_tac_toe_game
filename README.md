@@ -13,10 +13,14 @@
 
 ![gif](https://github.com/AnastasiyaMAV/TIC_TAC_TOE_GAME/blob/main/src/assetc/images/Tic-tac-toe-game.gif)
 
+#### Посмотреть приложение:
+
+[Ссылка на приложение](https://anastasiyamav.github.io/tic_tac_toe_game/)
+
 #### Используемые технологии:
 
-- React
-- React Hooks
+- [React](https://ru.reactjs.org/)
+- [React Hooks](https://ru.reactjs.org/docs/hooks-intro.html)
 - [SASS](https://sass-lang.com/)
 
 #### Запуск приложения:
